@@ -1,5 +1,5 @@
 {
-    "name": "swoft/i18n",
+    "name": "swoft-fork/i18n",
     "type": "library",
   "version": "v2.0.11",
     "keywords": [
@@ -10,11 +10,11 @@
         "translation"
     ],
     "description": "swoft i18n component",
-  "homepage": "https://github.com/swoft-cloud/swoft-i18n",
+  "homepage": "https://github.com/sky-up/swoft-i18n",
   "license": "Apache-2.0",
     "require": {
-        "php": ">=7.1",
-        "swoft/framework": "~2.0.0"
+        "php": ">=8.0",
+        "swoft-fork/framework": "~2.0.0"
     },
     "autoload": {
         "psr-4": {
