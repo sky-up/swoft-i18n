@@ -16,7 +16,7 @@ Swoft I18n Component
 - composer command
 
 ```bash
-composer require swoft/i18n
+composer require swoft-fork/i18n
 ```
 
 ## Resources
